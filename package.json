@@ -28,11 +28,11 @@
     "prepublishOnly": "bun ./src/scripts/module/prepare.ts",
     "postpublish": "git checkout package.json && git checkout README.md"
   },
-  "publisher": "PKief",
+  "publisher": "CamiloHernandezRuiz",
   "author": {
-    "name": "Philipp Kief",
-    "email": "philipp.kief@gmx.de",
-    "url": "https://pkief.com"
+    "name": "Camilo Hernandez Ruiz",
+    "email": "camihruiz24@gmail.com",
+    "url": ""
   },
   "funding": "https://github.com/sponsors/PKief",
   "sponsor": {
